@@ -1,24 +1,22 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            DojoVader
+tagline:          Scribblings as thoughts and concepts.
+description:      Curiosity is the lust of the mind.
 canonical: https://dojovader.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Okeowo Aderemi (DojoVader)
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Curiosity driven Engineer"
+  email:          okeowoaderemi@gmail.com
+  twitter:        qtguru
+  github:         dojoVader
+  disqus:         dojoVader
+  location:       "Nigeria, Lagos"
   # Plug in your disqus shortname!
 
 tools:
-  standards:      "HTML, SCSS, Jekyll"
+  standards:      "HTML, SCSS, Jekyll, Java, PHP, C#, JavaScript, TypeScript"
   software:       "git"
 
 # Open Graph customization
@@ -33,8 +31,8 @@ links:
   - title: Github
     url: https://github.com/ColeTownsend/Balzac-for-Jekyll
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Who ?
+    url: http://okeowoaderemi.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
