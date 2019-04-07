@@ -1,26 +1,18 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: About my site
+description: This is my personal technical notes, it contains details of findings, and also notes surrounding topics of interest and just a general note about programming. You will find mostly researches around topic I deem worthy and interesting. 
+tags: [okeowo, programming, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+### Small details about me
+I use to work at Linkeo Web Agencie, a French ICT company in Mauritius Quatre Bornne. Despite being a PHP/JS Developer I am quite versed with C#, Java ( J2ME and Android API, Processing) I try to learn as much as I can. Currently I left Leaps and Bounds for Interswitch Nigeria Limited where I am a Software Developer, where I work on .. (Confidential). I spend most of my time researching on Gaming and game development and creating modules for open source projects anything but Wordpress.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+I used to work at Interswitch Group Limited, where I worked on solutions like the Quickteller PayPoint, IFIS Portal and some internal applications, currently I work for Andela where I have been placed with a company called AppRiver; an American company that offers secure cloud-based cybersecurity solutions to protect against phishing, ransomware, conversation hijacking and more. I work with the Next Gen Portal Partner team to build AppRiver solutions for the customers.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+My passion actually lies in emulation and C++, it is my long term goal to dabble into this as an hobby. 
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
